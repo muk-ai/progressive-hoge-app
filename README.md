@@ -1,2 +1,3 @@
 # progressive-hoge-app
-example of PWA
+https://hoge.app
+
