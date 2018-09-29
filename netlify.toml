@@ -1,0 +1,4 @@
+[build]
+  base = "hoge"
+  command = "npm run build"
+  publish = "hoge/dist/hoge"
