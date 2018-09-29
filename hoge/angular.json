@@ -123,5 +123,10 @@
       }
     }
   },
-  "defaultProject": "hoge"
+  "defaultProject": "hoge",
+  "schematics": {
+    "@schematics/angular:component": {
+      "styleext": "scss"
+    }
+  }
 }
